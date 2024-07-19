@@ -2,7 +2,7 @@ import {initializeBlock} from '@airtable/blocks/ui';
 import React from 'react';
 
 function HelloWorldApp() {
-    // YOUR CODE GOES HERE
+    // UPDATE
     return <div>Hello world 🚀</div>;
 }
 
