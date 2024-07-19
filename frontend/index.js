@@ -3,7 +3,7 @@ import React from 'react';
 
 function HelloWorldApp() {
     // UPDATE
-    return <div>Hello world 🚀</div>;
+    return <div>Hello test 123 🚀</div>;
 }
 
 initializeBlock(() => <HelloWorldApp />);
